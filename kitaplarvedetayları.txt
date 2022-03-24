@@ -1,0 +1,600 @@
+------------------------------
+1. Kitap Bilgileri 
+Kitap İsmi : Gece Yarısı Kütüphanesi
+Kitabın Yazarı :   Matt Haig
+Yayın Evi : DOMİNGO YAYINEVİ
+------------------------------
+------------------------------
+2. Kitap Bilgileri 
+Kitap İsmi : Tiamat (Karton Kapak)
+Kitabın Yazarı :   İhsan Oktay Anar
+Yayın Evi : EVEREST YAYINLARI
+------------------------------
+------------------------------
+3. Kitap Bilgileri 
+Kitap İsmi : Şeker Portakalı (Ciltsiz)
+Kitabın Yazarı :   Jose Mauro De Vasconcelos
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+4. Kitap Bilgileri 
+Kitap İsmi : Ben, Kirke
+Kitabın Yazarı :   Madeline Miller
+Yayın Evi : İTHAKİ YAYINLARI
+------------------------------
+------------------------------
+5. Kitap Bilgileri 
+Kitap İsmi : Körlük
+Kitabın Yazarı :   Jose Saramago
+Yayın Evi : KIRMIZI KEDİ YAYINEVİ
+------------------------------
+------------------------------
+6. Kitap Bilgileri 
+Kitap İsmi : Veronika Ölmek İstiyor
+Kitabın Yazarı :   Paulo Coelho
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+7. Kitap Bilgileri 
+Kitap İsmi : Cesur Yeni Dünya
+Kitabın Yazarı :   Aldous Huxley
+Yayın Evi : İTHAKİ YAYINLARI
+------------------------------
+------------------------------
+8. Kitap Bilgileri 
+Kitap İsmi : Simyacı (Ciltsiz)
+Kitabın Yazarı :   Paulo Coelho
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+9. Kitap Bilgileri 
+Kitap İsmi : Fahrenheit 451
+Kitabın Yazarı :   Ray Bradbury
+Yayın Evi : İTHAKİ YAYINLARI
+------------------------------
+------------------------------
+10. Kitap Bilgileri 
+Kitap İsmi : 101 Deyim 101 Öykü
+Kitabın Yazarı :   Süleyman Bulut
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+11. Kitap Bilgileri 
+Kitap İsmi : Delifişek
+Kitabın Yazarı :   Jose Mauro De Vasconcelos
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+12. Kitap Bilgileri 
+Kitap İsmi : Fareler ve İnsanlar
+Kitabın Yazarı :   John Steinbeck
+Yayın Evi : SEL YAYINCILIK
+------------------------------
+------------------------------
+13. Kitap Bilgileri 
+Kitap İsmi : Hayvan Çiftliği (Ciltsiz)
+Kitabın Yazarı :   George Orwell
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+14. Kitap Bilgileri 
+Kitap İsmi : Benim Zürafam Uçabilir
+Kitabın Yazarı :   Mert Arık
+Yayın Evi : TİMAŞ ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+15. Kitap Bilgileri 
+Kitap İsmi : Aylak Adam
+Kitabın Yazarı :   Yusuf Atılgan
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+16. Kitap Bilgileri 
+Kitap İsmi : Kırmızı Pazartesi
+Kitabın Yazarı :   Gabriel Garcia Marquez
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+17. Kitap Bilgileri 
+Kitap İsmi : Kürk Mantolu Madonna
+Kitabın Yazarı :   Sabahattin Ali
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+18. Kitap Bilgileri 
+Kitap İsmi : Uğultulu Tepeler
+Kitabın Yazarı :   Emily Bronte
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+19. Kitap Bilgileri 
+Kitap İsmi : Saatleri Ayarlama Enstitüsü
+Kitabın Yazarı :   Ahmet Hamdi Tanpınar
+Yayın Evi : DERGAH YAYINLARI
+------------------------------
+------------------------------
+20. Kitap Bilgileri 
+Kitap İsmi : Zeytindağı
+Kitabın Yazarı :   Falih Rıfkı Atay
+Yayın Evi : POZİTİF YAYINLARI
+------------------------------
+------------------------------
+21. Kitap Bilgileri 
+Kitap İsmi : Martıya Uçmayı Öğreten Kedi
+Kitabın Yazarı :   Luis Sepulveda
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+22. Kitap Bilgileri 
+Kitap İsmi : Düşün! Bir de Sağlıklı Düşün! (Lise ve Yetişkin Düzeyi)
+Kitabın Yazarı :   Yasin Ramazan
+Yayın Evi : UFKA YOLCULUK
+------------------------------
+------------------------------
+23. Kitap Bilgileri 
+Kitap İsmi : Ezbere Yaşayanlar & Vazgeçemediğimiz Alışkanlıklarımızın Kökenleri
+Kitabın Yazarı :   Emrah Safa Gürkan
+Yayın Evi : KRONİK KİTAP
+------------------------------
+------------------------------
+24. Kitap Bilgileri 
+Kitap İsmi : Güneşi Uyandıralım
+Kitabın Yazarı :   Jose Mauro De Vasconcelos
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+25. Kitap Bilgileri 
+Kitap İsmi : Medeniyet Tasavvuru & Fütuhat-ı Medeniyye'ye Giriş 
+Kitabın Yazarı :   Yusuf Kaplan
+Yayın Evi : NESİL YAYINLARI
+------------------------------
+------------------------------
+26. Kitap Bilgileri 
+Kitap İsmi : Atomik Alışkanlıklar
+Kitabın Yazarı :   James Clear
+Yayın Evi : PEGASUS YAYINLARI
+------------------------------
+------------------------------
+27. Kitap Bilgileri 
+Kitap İsmi : Geliştiren Anne-Baba
+Kitabın Yazarı :   Doğan Cüceloğlu
+Yayın Evi : KRONİK KİTAP
+------------------------------
+------------------------------
+28. Kitap Bilgileri 
+Kitap İsmi : İnsanın Anlam Arayışı
+Kitabın Yazarı :   Viktor Emil Frankl
+Yayın Evi : OKUYAN US YAYIN
+------------------------------
+------------------------------
+29. Kitap Bilgileri 
+Kitap İsmi : Başarısızlar Kulübü
+Kitabın Yazarı :   Anıl Basılı
+Yayın Evi : TİMAŞ İLK GENÇ 
+------------------------------
+------------------------------
+30. Kitap Bilgileri 
+Kitap İsmi : İnce Memed 1
+Kitabın Yazarı :   Yaşar Kemal
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+31. Kitap Bilgileri 
+Kitap İsmi : Kayıp Tanrılar Ülkesi
+Kitabın Yazarı :   Ahmet Ümit
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+32. Kitap Bilgileri 
+Kitap İsmi : Kuyucaklı Yusuf
+Kitabın Yazarı :   Sabahattin Ali
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+33. Kitap Bilgileri 
+Kitap İsmi : İçimizdeki Şeytan
+Kitabın Yazarı :   Sabahattin Ali
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+34. Kitap Bilgileri 
+Kitap İsmi : Puslu Kıtalar Atlası
+Kitabın Yazarı :   İhsan Oktay Anar
+Yayın Evi : İLETİŞİM YAYINLARI
+------------------------------
+------------------------------
+35. Kitap Bilgileri 
+Kitap İsmi : Pal Sokağı Çocukları
+Kitabın Yazarı :   Ferenc Molnar
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+36. Kitap Bilgileri 
+Kitap İsmi : 101 Atasözü 101 Öykü
+Kitabın Yazarı :   Süleyman Bulut
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+37. Kitap Bilgileri 
+Kitap İsmi : Kitaplardan Korkan Çocuk
+Kitabın Yazarı :   Susanna Tamaro
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+38. Kitap Bilgileri 
+Kitap İsmi : İçimdeki Müzik 
+Kitabın Yazarı :   Sharon M. Draper
+Yayın Evi : TİMAŞ GENÇ
+------------------------------
+------------------------------
+39. Kitap Bilgileri 
+Kitap İsmi : Huzursuzluk
+Kitabın Yazarı :   Zülfü Livaneli
+Yayın Evi : DOĞAN KİTAP
+------------------------------
+------------------------------
+40. Kitap Bilgileri 
+Kitap İsmi : Momo
+Kitabın Yazarı :   Michael Ende
+Yayın Evi : PEGASUS YAYINLARI
+------------------------------
+------------------------------
+41. Kitap Bilgileri 
+Kitap İsmi : İslamiyet Öncesi Türkler
+Kitabın Yazarı :  Prof. Dr. Ahmet Taşağıl
+Yayın Evi : YEDİTEPE YAYINEVİ
+------------------------------
+------------------------------
+42. Kitap Bilgileri 
+Kitap İsmi : Yeni Tarım Düzeni
+Kitabın Yazarı :   Pelin Çift
+Yayın Evi : SİA KİTAP
+------------------------------
+------------------------------
+43. Kitap Bilgileri 
+Kitap İsmi : Dune
+Kitabın Yazarı :   Ali Ekber Yıldırım
+Yayın Evi : İTHAKİ YAYINLARI
+------------------------------
+------------------------------
+44. Kitap Bilgileri 
+Kitap İsmi : Yeşil Peri Gecesi
+Kitabın Yazarı :   Frank Herbert
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+45. Kitap Bilgileri 
+Kitap İsmi : Sırça Köşk
+Kitabın Yazarı :   Ayfer Tunç
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+46. Kitap Bilgileri 
+Kitap İsmi : Jane Eyre
+Kitabın Yazarı :   Sabahattin Ali
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+47. Kitap Bilgileri 
+Kitap İsmi : Tutunamayanlar / Bütün Eserleri 1
+Kitabın Yazarı :   Charlotte Brontë
+Yayın Evi : İLETİŞİM YAYINLARI
+------------------------------
+------------------------------
+48. Kitap Bilgileri 
+Kitap İsmi : İki Şehrin Hikayesi
+Kitabın Yazarı :   Oğuz Atay
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+49. Kitap Bilgileri 
+Kitap İsmi : Akhilleus’un Şarkısı
+Kitabın Yazarı :   Charles Dickens
+Yayın Evi : İTHAKİ YAYINLARI
+------------------------------
+------------------------------
+50. Kitap Bilgileri 
+Kitap İsmi : Firavun İmanı / Toplu Eserleri 2
+Kitabın Yazarı :   Madeline Miller
+Yayın Evi : İLETİŞİM YAYINLARI
+------------------------------
+------------------------------
+51. Kitap Bilgileri 
+Kitap İsmi : Uçan Sınıf
+Kitabın Yazarı :   Tarık Buğra
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+52. Kitap Bilgileri 
+Kitap İsmi : Kalk Yerine Yat
+Kitabın Yazarı :   Erich Kastner
+Yayın Evi : DOĞAN KİTAP
+------------------------------
+------------------------------
+53. Kitap Bilgileri 
+Kitap İsmi : Derviş
+Kitabın Yazarı :   Şermin Yaşar
+Yayın Evi : TİMAŞ YAYINLARI
+------------------------------
+------------------------------
+54. Kitap Bilgileri 
+Kitap İsmi : Deli İbram Divanı
+Kitabın Yazarı :   Bahadır Yenişehirlioğlu
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+55. Kitap Bilgileri 
+Kitap İsmi : Bin Dokuz Yüz Seksen Dört - 1984 
+Kitabın Yazarı :   Ahmet Büke
+Yayın Evi : KAPRA YAYINCILIK
+------------------------------
+------------------------------
+56. Kitap Bilgileri 
+Kitap İsmi : Sahnenin Dışındakiler
+Kitabın Yazarı :   George Orwell
+Yayın Evi : DERGAH YAYINLARI
+------------------------------
+------------------------------
+57. Kitap Bilgileri 
+Kitap İsmi : Çavdar Tarlasında Çocuklar
+Kitabın Yazarı :   Ahmet Hamdi Tanpınar
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+58. Kitap Bilgileri 
+Kitap İsmi : Uçurtmam Bulut Şimdi
+Kitabın Yazarı :   J. D. Salinger
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+59. Kitap Bilgileri 
+Kitap İsmi : Görmek
+Kitabın Yazarı :   Sevim Ak
+Yayın Evi : KIRMIZI KEDİ YAYINEVİ
+------------------------------
+------------------------------
+60. Kitap Bilgileri 
+Kitap İsmi : Kiraz Ağacı ile Aramızdaki Mesafe
+Kitabın Yazarı :   Jose Saramago
+Yayın Evi : TİMAŞ GENÇ
+------------------------------
+------------------------------
+61. Kitap Bilgileri 
+Kitap İsmi : Hayatın Sesi
+Kitabın Yazarı :  Dr. Gülseren Budayıcıoğlu
+Yayın Evi : DOĞAN KİTAP
+------------------------------
+------------------------------
+62. Kitap Bilgileri 
+Kitap İsmi : İnci
+Kitabın Yazarı :   John Steinbeck
+Yayın Evi : SEL YAYINCILIK
+------------------------------
+------------------------------
+63. Kitap Bilgileri 
+Kitap İsmi : İnsan Vücudu Tiyatrosu
+Kitabın Yazarı :   Maris Wicks
+Yayın Evi : DOMİNGO YAYINEVİ
+------------------------------
+------------------------------
+64. Kitap Bilgileri 
+Kitap İsmi : Elma Dersem Düşün (İlkokul Düzeyi)
+Kitabın Yazarı :   Ayşenur Gönen
+Yayın Evi : UFKA YOLCULUK
+------------------------------
+------------------------------
+65. Kitap Bilgileri 
+Kitap İsmi : Eyvah Ceviz Çatırdıyor (Ortaokul Düzeyi)
+Kitabın Yazarı :   Fatma Çağdaş Börekçi
+Yayın Evi : UFKA YOLCULUK
+------------------------------
+------------------------------
+66. Kitap Bilgileri 
+Kitap İsmi : Siddhartha (Ciltsiz)
+Kitabın Yazarı :   Hermann Hesse
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+67. Kitap Bilgileri 
+Kitap İsmi : Seyir
+Kitabın Yazarı :   Piraye 
+Yayın Evi : MONA
+------------------------------
+------------------------------
+68. Kitap Bilgileri 
+Kitap İsmi : Cadının Yüreği
+Kitabın Yazarı :   Genevieve Gornichec
+Yayın Evi : İTHAKİ YAYINLARI
+------------------------------
+------------------------------
+69. Kitap Bilgileri 
+Kitap İsmi : Kurtlarla Koşan Kadınlar / Vahşi Kadın Arketipine Dair Mit ve Öyküler
+Kitabın Yazarı :   Clarissa Pinkola Estes
+Yayın Evi : AYRINTI YAYINLARI
+------------------------------
+------------------------------
+70. Kitap Bilgileri 
+Kitap İsmi : Gerçek Tıp & Yitik Şifanın İzinde
+Kitabın Yazarı :   Aidin Salih
+Yayın Evi : YİTİK ŞİFA
+------------------------------
+------------------------------
+71. Kitap Bilgileri 
+Kitap İsmi : Son Ada
+Kitabın Yazarı :   Zülfü Livaneli
+Yayın Evi : DOĞAN KİTAP
+------------------------------
+------------------------------
+72. Kitap Bilgileri 
+Kitap İsmi : Kapak Kızı
+Kitabın Yazarı :   Ayfer Tunç
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+73. Kitap Bilgileri 
+Kitap İsmi : Diriliş Neslinin Amentüsü
+Kitabın Yazarı :   Sezai Karakoç
+Yayın Evi : DİRİLİŞ YAYINLARI
+------------------------------
+------------------------------
+74. Kitap Bilgileri 
+Kitap İsmi : Zaman Bisikleti  2 - Geçmişten Gelen Konuklar
+Kitabın Yazarı :   Bilgin Adalı
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+75. Kitap Bilgileri 
+Kitap İsmi : KPSS ALES DGS Ezberbozan Paragraf Soru Bankası
+Kitabın Yazarı :   Kolektif 
+Yayın Evi : PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+------------------------------
+------------------------------
+76. Kitap Bilgileri 
+Kitap İsmi : Yorgun Savaşçı
+Kitabın Yazarı :   Kemal Tahir 
+Yayın Evi : İTHAKİ YAYINLARI
+------------------------------
+------------------------------
+77. Kitap Bilgileri 
+Kitap İsmi : Nohut Adam
+Kitabın Yazarı :   Anıl Basılı
+Yayın Evi : TİMAŞ ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+78. Kitap Bilgileri 
+Kitap İsmi : Nasıl Dayandın Ya Rasulullah & Hayatını Değiştirecek Siyer
+Kitabın Yazarı :   Mehmet  Yıldız
+Yayın Evi : TİMAŞ YAYINLARI
+------------------------------
+------------------------------
+79. Kitap Bilgileri 
+Kitap İsmi : Bir İdam Mahkumunun Son Günü
+Kitabın Yazarı :   Victor Hugo
+Yayın Evi : KAPRA YAYINCILIK
+------------------------------
+------------------------------
+80. Kitap Bilgileri 
+Kitap İsmi : Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli 
+Kitabın Yazarı :   Mecit Ömür Öztürk
+Yayın Evi : HAYY KİTAP
+------------------------------
+------------------------------
+81. Kitap Bilgileri 
+Kitap İsmi : Beyaz Zambaklar Ülkesinde
+Kitabın Yazarı :   Grigory Petrov
+Yayın Evi : KAPRA YAYINCILIK
+------------------------------
+------------------------------
+82. Kitap Bilgileri 
+Kitap İsmi : Mutluluğu Kaybettiğin Yerde Arama
+Kitabın Yazarı :   Beyhan Budak
+Yayın Evi : SAHİ KİTAP
+------------------------------
+------------------------------
+83. Kitap Bilgileri 
+Kitap İsmi : Balıkçı ve Oğlu
+Kitabın Yazarı :   Zülfü Livaneli
+Yayın Evi : İNKILAP KİTABEVİ
+------------------------------
+------------------------------
+84. Kitap Bilgileri 
+Kitap İsmi : Yaşamak
+Kitabın Yazarı :   Yu Hua 
+Yayın Evi : JAGUAR KİTAP
+------------------------------
+------------------------------
+85. Kitap Bilgileri 
+Kitap İsmi : Kehribar Geçidi
+Kitabın Yazarı :  Prof. Dr. Nazan Bekiroğlu
+Yayın Evi : TİMAŞ YAYINLARI
+------------------------------
+------------------------------
+86. Kitap Bilgileri 
+Kitap İsmi : İyi Aile Yoktur
+Kitabın Yazarı :   Nihan Kaya
+Yayın Evi : İTHAKİ YAYINLARI
+------------------------------
+------------------------------
+87. Kitap Bilgileri 
+Kitap İsmi : Gizli İlimler Hazinesi
+Kitabın Yazarı :   Ömer Faruk İspir
+Yayın Evi : LOPUS
+------------------------------
+------------------------------
+88. Kitap Bilgileri 
+Kitap İsmi : 30 Günde 10 Yıl
+Kitabın Yazarı :  Prof. Dr. Yavuz Yörükoğlu
+Yayın Evi : HAYY KİTAP
+------------------------------
+------------------------------
+89. Kitap Bilgileri 
+Kitap İsmi : Harry Potter ve Felsefe Taşı
+Kitabın Yazarı :   J. K. Rowling
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+90. Kitap Bilgileri 
+Kitap İsmi : Çizgili Pijamalı Çocuk
+Kitabın Yazarı :   John Boyne
+Yayın Evi : TUDEM YAYINEVİ
+------------------------------
+------------------------------
+91. Kitap Bilgileri 
+Kitap İsmi : 2022 KPSS Tarih Tamamı Çözümlü Soru Bankası
+Kitabın Yazarı :   Ramazan Yetgin
+Yayın Evi : BENİM HOCAM YAYINLARI
+------------------------------
+------------------------------
+92. Kitap Bilgileri 
+Kitap İsmi : Okçu'nun Yolu
+Kitabın Yazarı :   Paulo Coelho
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+93. Kitap Bilgileri 
+Kitap İsmi : Benim Kılavuzum Kur’an
+Kitabın Yazarı :   Ramazan Batmaz
+Yayın Evi : SÜEDA
+------------------------------
+------------------------------
+94. Kitap Bilgileri 
+Kitap İsmi : Tiamat (Ciltli)
+Kitabın Yazarı :   İhsan Oktay Anar
+Yayın Evi : EVEREST YAYINLARI
+------------------------------
+------------------------------
+95. Kitap Bilgileri 
+Kitap İsmi : Zaman Bisikleti  3 - Zamanda Kaza
+Kitabın Yazarı :   Bilgin Adalı
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
+------------------------------
+96. Kitap Bilgileri 
+Kitap İsmi : Kapra Felsefe Seti (10 Kitap)
+Kitabın Yazarı :   Sigmund Freud
+Yayın Evi : KAPRA YAYINCILIK
+------------------------------
+------------------------------
+97. Kitap Bilgileri 
+Kitap İsmi : Griden Beyaza
+Kitabın Yazarı :   Rene Descartes
+Yayın Evi : PROFİL KİTAP
+------------------------------
+------------------------------
+98. Kitap Bilgileri 
+Kitap İsmi : Semerkant
+Kitabın Yazarı :   Cicero 
+Yayın Evi : YAPI KREDİ YAYINLARI
+------------------------------
+------------------------------
+99. Kitap Bilgileri 
+Kitap İsmi : Suzan Defter
+Kitabın Yazarı :   Tommasso Campanella
+Yayın Evi : CAN YAYINLARI
+------------------------------
+------------------------------
+100. Kitap Bilgileri 
+Kitap İsmi : Charlie'nin Çikolata Fabrikası (Ciltsiz)
+Kitabın Yazarı :   Francis Bacon
+Yayın Evi : CAN ÇOCUK YAYINLARI
+------------------------------
